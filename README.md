@@ -1,11 +1,30 @@
-- 👋 Hello, I’m Rikita Bhattarai.
-- 👀 I am interested in the field of CyberSecuity.
-- 🌱 I am currently working on Google CyberSecurity Professional Certificate.
-- 📫 You can reach out to me on rikitabhattarai122@gmail.com
-- 😄 My pronouns are she/her.
-- ⚡ One fun fact about me is that I love to travel and try different cuisines. 
+# Hello, I am Rikita! 👋
 
-<!---
-rikita-bhattarai/rikita-bhattarai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌟 About Me
+I am a dedicated and passionate aspiring **Cybersecurity Analyst**, currently pursuing a degree in **Computer Information Systems** at **UT Arlington**. My goal is to protect organizations and individuals from cyber threats by applying my technical skills and security knowledge.
+
+## 🎯 Skills & Certifications
+- 🔹 **Google Cybersecurity Professional Certificate** *(In Progress)*
+- 🔹 **CompTIA Security+ (Upcoming)*
+- 🔹 Networking Fundamentals
+- 🔹 Security Operations & Risk Management
+- 🔹 Linux & Command Line Basics
+- 🔹 Python for Cybersecurity *(In Progress)*
+
+ 
+## 📜 Certifications
+- [Google Cybersecurity Certificate (In Progress)]
+- [CompTIA Security+ (Upcoming)]
+
+
+## 🔍 Write-Ups & Blogs
+- 📖 [Understanding Hashing in Cybersecurity](#)
+- 📝 [Cybersecurity Basics: CIA Triad & NIST Framework](#)
+- 💡 [Common Cyber Threats and How to Mitigate Them](#)
+
+## 📬 Let's Connect!
+- 💼 LinkedIn: www.linkedin.com/in/rikita-bhattarai-8876542b7
+- 📩 Email: rikitabhattarai122@gmail.com
+
+---
+🛠 **Portfolio under development – More projects & certifications coming soon!** 🚀
