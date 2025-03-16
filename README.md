@@ -1,20 +1,20 @@
 # Hello, I am Rikita! 👋
 
 ## 🌟 About Me
-I am a dedicated and passionate aspiring **Cybersecurity Analyst**, currently pursuing a degree in **Computer Information Systems** at **UT Arlington**. My goal is to protect organizations and individuals from cyber threats by applying my technical skills and security knowledge.
+I am a dedicated and passionate aspiring **Cybersecurity Analyst**, currently pursuing a degree in **Computer Information Systems** at **UT Arlington**. While my background is in CIS, focusing on IT and business, I have recently transitioned into cybersecurity to specialize in protecting organizations and individuals from cyber threats. Through hands-on learning and certifications, I am building my expertise in network security, ethical hacking, and risk management to connect IT and cybersecurity.
 
-## 🎯 Skills & Certifications
+## 🎯 Skills, Tools & Certifications
+**Certifications:**
 - 🔹 **Google Cybersecurity Professional Certificate** *(In Progress)*
+- 🔹 Automate Cybersecurity Tasks with Python *(In Progress)*
 - 🔹 **CompTIA Security+ (Upcoming)*
+
+**Skills & Tools:**
+- **Tools:** Wireshark, Network Packet Analyser
 - 🔹 Networking Fundamentals
 - 🔹 Security Operations & Risk Management
 - 🔹 Linux & Command Line Basics
-- 🔹 Python for Cybersecurity *(In Progress)*
-
- 
-## 📜 Certifications
-- [Google Cybersecurity Certificate (In Progress)]
-- [CompTIA Security+ (Upcoming)]
+- 🔹 Python
 
 
 
