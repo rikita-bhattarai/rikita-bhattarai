@@ -17,10 +17,6 @@ I am a dedicated and passionate aspiring **Cybersecurity Analyst**, currently pu
 - [CompTIA Security+ (Upcoming)]
 
 
-## 🔍 Write-Ups & Blogs
-- 📖 [Understanding Hashing in Cybersecurity](#)
-- 📝 [Cybersecurity Basics: CIA Triad & NIST Framework](#)
-- 💡 [Common Cyber Threats and How to Mitigate Them](#)
 
 ## 📬 Let's Connect!
 - 💼 LinkedIn: www.linkedin.com/in/rikita-bhattarai-8876542b7
