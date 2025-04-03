@@ -10,7 +10,7 @@ I am a dedicated and passionate aspiring **Cybersecurity Analyst**, currently pu
 - 🔹 **CompTIA Security+ (Upcoming)*
 
 **Skills & Tools:**
-- **Tools:** Wireshark, Network Packet Analyser
+- **Tools:** Wireshark, Network Packet Analyzer
 - 🔹 Networking Fundamentals
 - 🔹 Security Operations & Risk Management
 - 🔹 Linux & Command Line Basics
